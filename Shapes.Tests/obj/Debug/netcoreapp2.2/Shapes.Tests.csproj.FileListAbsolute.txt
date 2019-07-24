@@ -1,0 +1,17 @@
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp2.2\Shapes.Tests.deps.json
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp2.2\Shapes.Tests.runtimeconfig.json
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp2.2\Shapes.Tests.runtimeconfig.dev.json
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp2.2\Shapes.Tests.dll
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp2.2\Shapes.Tests.pdb
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp2.2\Shapes.dll
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp2.2\Shapes.pdb
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\obj\Debug\netcoreapp2.2\Shapes.Tests.csprojAssemblyReference.cache
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\obj\Debug\netcoreapp2.2\Shapes.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\obj\Debug\netcoreapp2.2\Shapes.Tests.AssemblyInfoInputs.cache
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\obj\Debug\netcoreapp2.2\Shapes.Tests.AssemblyInfo.cs
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\obj\Debug\netcoreapp2.2\Shapes.Tests.csproj.CopyComplete
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\obj\Debug\netcoreapp2.2\Shapes.Tests.dll
+C:\Users\Holde\desktop\coding\Shapes.Solution\Shapes.Tests\obj\Debug\netcoreapp2.2\Shapes.Tests.pdb
